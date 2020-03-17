@@ -1,7 +1,7 @@
 \PassOptionsToPackage{unicode=true}{hyperref} % options for packages loaded elsewhere
 \PassOptionsToPackage{hyphens}{url}
 %
-\documentclass[10pt,]{book}
+\documentclass[12pt,]{book}
 \usepackage{lmodern}
 \usepackage{amssymb,amsmath}
 \usepackage{ifxetex,ifluatex}
@@ -103,9 +103,9 @@
 \usepackage{makeidx}
 \makeindex
 \usepackage{imakeidx}
-\usepackage{showframe}
-%\usepackage[a4paper]{geometry}
-%\geometry{verbose,tmargin=2.5cm,bmargin=2.5cm,lmargin=3cm,rmargin=2.5cm}
+%\usepackage{showframe}
+\usepackage[a4paper]{geometry}
+\geometry{verbose,tmargin=3cm,bmargin=3cm,lmargin=3.5cm,rmargin=3cm}
 \makeindex[columns=2, title=\'Indice ]
 \flushbottom
 \makeatletter
@@ -148,11 +148,22 @@
 \setlength{\parskip}{0.7em plus .01em minus .01em}
 
 \titleformat{\chapter}[display]
-{\normalfont\Large\bfseries}{Capítulo \thechapter}{0.0em}{\normalsize\bfseries}
+{\normalfont\Large\bfseries}{--\thechapter--}{0.0em}{\Large\itshape\bfseries}
 %\renewcommand{\thechapter}{\Roman{chapter}}
 \renewcommand{\thesection}{\arabic{chapter}.\arabic{section}}
 \renewcommand{\thesubsection}{\arabic{chapter}.\arabic{section}.\arabic{subsection}}
 \renewcommand{\thesubsubsection}{\arabic{chapter}.\arabic{section}.\arabic{subsection}.\arabic{subsubsection}}
+
+\usepackage{fancyhdr}
+\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+\renewcommand{\sectionmark}[1]{\markright{#1}}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{\thepage}
+\fancyhead[LO]{\itshape\nouppercase{\rightmark}}
+\fancyhead[RE]{\itshape\nouppercase{\leftmark}}
+\renewcommand{\headrulewidth}{0pt}
+
 \flushbottom 
 
 \frontmatter
@@ -209,6 +220,10 @@ This is an R Markdown document. Markdown is a simple formatting syntax for autho
 
 When you click the \textbf{Knit} button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
 
+When you click the \textbf{Knit} button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+When you click the \textbf{Knit} button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
 \begin{Shaded}
 \begin{Highlighting}[]
 \KeywordTok{summary}\NormalTok{(cars)}
@@ -225,8 +240,7 @@ When you click the \textbf{Knit} button a document will be generated that includ
 ##  Max.   :25.0   Max.   :120.00
 \end{verbatim}
 
-\hypertarget{including-plots}{%
-\section{Including Plots}\label{including-plots}}
+When you click the \textbf{Knit} button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:\#\# Including Plots
 
 You can also embed plots, for example:
 
@@ -273,8 +287,8 @@ When you click the \textbf{Knit} button a document will be generated that includ
 ##  Max.   :25.0   Max.   :120.00
 \end{verbatim}
 
-\hypertarget{including-plots-1}{%
-\section{Including Plots}\label{including-plots-1}}
+\hypertarget{including-plots}{%
+\section{Including Plots}\label{including-plots}}
 
 You can also embed plots, for example:
 

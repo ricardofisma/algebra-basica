@@ -4,7 +4,7 @@ author: "Ricardo"
 date: "`r Sys.Date()`" 
 site: bookdown::bookdown_site
 documentclass: book
-fontsize: 10pt
+fontsize: 12pt
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
