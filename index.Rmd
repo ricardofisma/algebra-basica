@@ -1,14 +1,16 @@
 --- 
-title: "A Minimal Book Example"
+title: "Beauty book"
 author: "Yihui Xie"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
+fontsize: 10pt
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
-description: "This is a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook."
+description: ""
 ---
 
-# Prerequisites
-$a+b=c$ _god_ **entonces**
+# Prerequisites {-}
+
+$a+b=c$ _god_ **entonces** \index{good}

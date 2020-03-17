@@ -1,5 +1,6 @@
+output_dir: "docs"
 book_filename: "algebra-basica"
 delete_merged_file: true
 language:
   ui:
-    chapter_name: "Chapter "
+    chapter_name: "Capítulo "
