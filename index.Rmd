@@ -13,5 +13,5 @@ description: "intelligence"
 ---
 
 # Prerequisites {-}
-
+Sea la ecuación
 $a+b=c$ _god_ **entonces** \index{good}
