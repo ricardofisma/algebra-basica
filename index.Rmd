@@ -1,5 +1,5 @@
 --- 
-title: "Beauty book-1" 
+title: "Beauty book-2" 
 author: "Ricardo" 
 date: "`r Sys.Date()`" 
 site: bookdown::bookdown_site
