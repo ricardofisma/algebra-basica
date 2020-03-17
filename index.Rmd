@@ -8,7 +8,8 @@ fontsize: 10pt
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
-description: ""
+subparagraph: yes
+description: "intelligence"
 ---
 
 # Prerequisites {-}

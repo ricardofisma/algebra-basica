@@ -143,10 +143,17 @@
 {0pt} {0em plus .01em minus .01em} {0em plus .01em minus .01em}
 \titlespacing*{\paragraph} {0pt}{1.25ex plus 1ex minus .2ex}{2em}
 \titlespacing*{\subparagraph} {\parindent}{3.25ex plus 1ex minus .2ex}{1em}
-\titleformat*{\section}{\normalsize\bfseries}
+\titleformat*{\section}{\large\bfseries}
 \titleformat*{\subsection}{\normalsize\bfseries}
 \setlength{\parskip}{0.7em plus .01em minus .01em}
 
+\titleformat{\chapter}[display]
+{\normalfont\Large\bfseries}{Capítulo \thechapter}{0.0em}{\normalsize\bfseries}
+%\renewcommand{\thechapter}{\Roman{chapter}}
+\renewcommand{\thesection}{\arabic{chapter}.\arabic{section}}
+\renewcommand{\thesubsection}{\arabic{chapter}.\arabic{section}.\arabic{subsection}}
+\renewcommand{\thesubsubsection}{\arabic{chapter}.\arabic{section}.\arabic{subsection}.\arabic{subsubsection}}
+\flushbottom 
 
 \frontmatter
 \usepackage[]{natbib}
@@ -222,7 +229,7 @@ When you click the \textbf{Knit} button a document will be generated that includ
 
 You can also embed plots, for example:
 
-\includegraphics{algebra-basica_files/figure-latex/pressure1-1.pdf}
+\includegraphics{z_1_files/figure-latex/pressure1-1.pdf}
 
 Note that the \texttt{echo\ =\ FALSE} parameter was added to the code chunk to prevent printing of the R code that generated the plot.
 
@@ -270,7 +277,7 @@ When you click the \textbf{Knit} button a document will be generated that includ
 
 You can also embed plots, for example:
 
-\includegraphics{algebra-basica_files/figure-latex/pressure-1.pdf}
+\includegraphics{z_1_files/figure-latex/pressure-1.pdf}
 
 Note that the \texttt{echo\ =\ FALSE} parameter was added to the code chunk to prevent printing of the R code that generated the plot.
 
