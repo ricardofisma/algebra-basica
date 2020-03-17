@@ -1,0 +1,38 @@
+\usepackage[spanish,english]{babel}
+\usepackage{booktabs}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{makeidx}
+\makeindex
+\usepackage{imakeidx}
+\usepackage{showframe}
+%\usepackage[a4paper]{geometry}
+%\geometry{verbose,tmargin=2.5cm,bmargin=2.5cm,lmargin=3cm,rmargin=2.5cm}
+\makeindex[columns=2, title=\'Indice ]
+\flushbottom
+\makeatletter
+\renewcommand*{\cleardoublepage}{\clearpage\if@twoside \ifodd\c@page\else
+	\hbox{}%
+	\thispagestyle{empty}%
+	\newpage%
+	\if@twocolumn\hbox{}\newpage\fi\fi\fi}
+\makeatother
+
+\usepackage{times}
+\renewcommand{\rmdefault}{ptm}
+\usepackage[lite,subscriptcorrection,nofontinfo,zswash]{mtpro2}
+
+\usepackage{makeidx}
+\makeindex
+
+
+\usepackage{amsthm}
+\makeatletter
+\def\thm@space@setup{%
+  \thm@preskip=8pt plus 2pt minus 4pt
+  \thm@postskip=\thm@preskip
+}
+\makeatother
+
+\frontmatter
+

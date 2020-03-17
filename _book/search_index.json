@@ -1,0 +1,9 @@
+[
+["index.html", "A Minimal Book Example Chapter 1 Prerequisites", " A Minimal Book Example Yihui Xie 2020-03-16 Chapter 1 Prerequisites \\(a+b=c\\) god entonces "],
+["introduction.html", "Chapter 2 Introduction", " Chapter 2 Introduction You can write citations, too. For example, we are using the bookdown package (Xie 2020) in this sample book, which was built on top of R Markdown and knitr (Xie 2015). References "],
+["literature.html", "Chapter 3 Literature", " Chapter 3 Literature Here is a review of existing methods. "],
+["methods.html", "Chapter 4 Methods", " Chapter 4 Methods We describe our methods in this chapter. "],
+["applications.html", "Chapter 5 Applications 5.1 Example one 5.2 Example two", " Chapter 5 Applications Some significant applications are demonstrated in this chapter. 5.1 Example one 5.2 Example two "],
+["final-words.html", "Chapter 6 Final Words", " Chapter 6 Final Words We have finished a nice book. "],
+["references.html", "References", " References "]
+]
