@@ -1,11 +1,8 @@
 # Introducción {-}
-
-Los números son elementos 
-You can write citations, too. For example, we are using the **bookdown** package [@R-bookdown] in this sample book, which was built on top of R Markdown and **knitr** [@xie2015].
+[@R-bookdown]  **knitr** [@xie2015].
 
 
-Sea la función de segundo grado $ax^2+bx+c=y$ enotnces las raices de esta ecuacion se obtiene al despejar la ecuación $ax^2+bx+c=0$ 
-
+Sea la **función** de segundo grado $ax^2+bx+c=y$ entonces las raices de esta ecuación se obtiene al despejar la ecuación $ax^2+bx+c=0$ 
 \begin{align*}
 ax^2+bx+c&=0\\
 x^2+\frac{b}{a}x+\frac{c}{a}&=0\\
@@ -15,3 +12,5 @@ x^2+2\frac{b}{2a}x+\left(\frac{b}{2a}\right)^2-\left(\frac{b}{2a}\right)^2+\frac
 \left(x+\frac{b}{2a}\right)^2&=\frac{b^2-4ac}{4a^2}\\
 \end{align*}
 por lo tanto se tiene las raices de la ecuación $ax^2+bx+c=0$ son  $$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
+
+si las ecuacionesson 
