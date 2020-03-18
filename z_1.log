@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.11.22)  16 MAR 2020 22:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.11.22)  17 MAR 2020 21:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -911,21 +911,7 @@ Package: multicol 2017/04/11 v1.8q multicolumn formatting (FMi)
 \mult@nat@firstbox=\box58
 \colbreak@box=\box59
 \mc@col@check@num=\count136
-)) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
-Package: geometry 2010/09/12 v5.6 Page Geometry
-\Gm@cnth=\count137
-\Gm@cntv=\count138
-\c@Gm@tempcnt=\count139
-\Gm@bindingoffset=\dimen148
-\Gm@wd@mp=\dimen149
-\Gm@odd@mp=\dimen150
-\Gm@even@mp=\dimen151
-\Gm@layoutwidth=\dimen152
-\Gm@layoutheight=\dimen153
-\Gm@layouthoffset=\dimen154
-\Gm@layoutvoffset=\dimen155
-\Gm@dimlist=\toks28
-)
+))
 \z_1@idxfile=\write5
 \openout5 = `z_1.idx'.
 
@@ -947,7 +933,7 @@ Now handling font encoding LMP2 ...
 ... no UTF-8 mapping file for font encoding LMP2
 Now handling font encoding LMP3 ...
 ... no UTF-8 mapping file for font encoding LMP3
-\pointcount@=\count140
+\pointcount@=\count137
 \prePbox@=\box60
 \Pbox@=\box61
 \LRbox@=\box62
@@ -957,17 +943,17 @@ Now handling font encoding LMP3 ...
 \ARCbox@=\box66
 \preSbox@=\box67
 \Sbox@=\box68
-\SQcount@=\count141
+\SQcount@=\count138
 \SQRTbox@=\box69
-\UPROOT@=\count142
-\LEFTROOT@=\count143
-\limtype@=\count144
-\xlfont@=\count145
-\xlposition@=\count146
-\xlposition@ii=\count147
-\optype@=\count148
-\x@count=\count149
-\maxXLscripts@=\dimen156
+\UPROOT@=\count139
+\LEFTROOT@=\count140
+\limtype@=\count141
+\xlfont@=\count142
+\xlposition@=\count143
+\xlposition@ii=\count144
+\optype@=\count145
+\x@count=\count146
+\maxXLscripts@=\dimen148
 )
 \z_1@idxfile=\write6
 \openout6 = `z_1.idx'.
@@ -975,26 +961,26 @@ Now handling font encoding LMP3 ...
 Writing index file z_1.idx
 (/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
 Package: amsthm 2017/10/31 v2.20.4
-\thm@style=\toks29
-\thm@bodyfont=\toks30
-\thm@headfont=\toks31
-\thm@notefont=\toks32
-\thm@headpunct=\toks33
+\thm@style=\toks28
+\thm@bodyfont=\toks29
+\thm@headfont=\toks30
+\thm@notefont=\toks31
+\thm@headpunct=\toks32
 \thm@preskip=\skip55
 \thm@postskip=\skip56
 \thm@headsep=\skip57
-\dth@everypar=\toks34
+\dth@everypar=\toks33
 ) (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
 \ttl@box=\box70
 \beforetitleunit=\skip58
 \aftertitleunit=\skip59
-\ttl@plus=\dimen157
-\ttl@minus=\dimen158
-\ttl@toksa=\toks35
-\titlewidth=\dimen159
-\titlewidthlast=\dimen160
-\titlewidthfirst=\dimen161
+\ttl@plus=\dimen149
+\ttl@minus=\dimen150
+\ttl@toksa=\toks34
+\titlewidth=\dimen151
+\titlewidthlast=\dimen152
+\titlewidthfirst=\dimen153
 ) (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
 s
@@ -1012,7 +998,7 @@ Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip69
 \bibsep=\skip70
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count150
+\c@NAT@ctr=\count147
 ) (./z_1.aux
 LaTeX Info: Redefining \. on input line 24.
 LaTeX Info: Redefining \% on input line 24.
@@ -1042,7 +1028,7 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count151
+\c@section@level=\count148
 )
 LaTeX Info: Redefining \ref on input line 177.
 LaTeX Info: Redefining \pageref on input line 177.
@@ -1053,17 +1039,17 @@ LaTeX Info: Redefining \nameref on input line 177.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count152
-\scratchdimen=\dimen162
+\scratchcounter=\count149
+\scratchdimen=\dimen154
 \scratchbox=\box72
-\nofMPsegments=\count153
-\nofMParguments=\count154
-\everyMPshowfont=\toks36
-\MPscratchCnt=\count155
-\MPscratchDim=\dimen163
-\MPnumerator=\count156
-\makeMPintoPDFobject=\count157
-\everyMPtoPDFconversion=\toks37
+\nofMPsegments=\count150
+\nofMParguments=\count151
+\everyMPshowfont=\toks35
+\MPscratchCnt=\count152
+\MPscratchDim=\dimen155
+\MPnumerator=\count153
+\makeMPintoPDFobject=\count154
+\everyMPtoPDFconversion=\toks36
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
@@ -1081,44 +1067,6 @@ e
 ))
 LaTeX Info: Redefining \. on input line 177.
 LaTeX Info: Redefining \% on input line 177.
-*geometry* driver: auto-detecting
-*geometry* detected driver: pdftex
-
-Package geometry Warning: The marginal notes overrun the paper.
-     Add 19.64174pt and more to the right margin.
-
-*geometry* verbose mode - [ preamble ] result:
-* driver: pdftex
-* paper: a4paper
-* layout: <same size as paper>
-* layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: twoside 
-* h-part:(L,W,R)=(99.58464pt, 412.56497pt, 85.35826pt)
-* v-part:(T,H,B)=(85.35826pt, 674.33032pt, 85.35826pt)
-* \paperwidth=597.50787pt
-* \paperheight=845.04684pt
-* \textwidth=412.56497pt
-* \textheight=674.33032pt
-* \oddsidemargin=27.31465pt
-* \evensidemargin=13.08827pt
-* \topmargin=-18.78552pt
-* \headheight=12.0pt
-* \headsep=19.8738pt
-* \topskip=12.0pt
-* \footskip=30.0pt
-* \marginparwidth=98.0pt
-* \marginparsep=7.0pt
-* \columnsep=10.0pt
-* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
-* \hoffset=0.0pt
-* \voffset=0.0pt
-* \mag=1000
-* \@twocolumnfalse
-* \@twosidetrue
-* \@mparswitchtrue
-* \@reversemarginfalse
-* (1in=72.27pt=25.4mm, 1cm=28.453pt)
-
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 ) (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg
@@ -1157,20 +1105,19 @@ Cap\'{\i }tulo 1.
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
-<z_1_files/figure-latex/pressure1-1.pdf, id=121, 434.62375pt x 250.9375pt>
-File: z_1_files/figure-latex/pressure1-1.pdf Graphic file (type pdf)
-<use z_1_files/figure-latex/pressure1-1.pdf>
-Package pdftex.def Info: z_1_files/figure-latex/pressure1-1.pdf  used on input 
-line 247.
-(pdftex.def)             Requested size: 412.59178pt x 238.21695pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 3029) has occurred while \output is active []
 
 [1
 
 ]
-LaTeX Info: Redefining \. on input line 252.
-LaTeX Info: Redefining \% on input line 252.
+<z_1_files/figure-latex/pressure1-1.pdf, id=131, 434.62375pt x 250.9375pt>
+File: z_1_files/figure-latex/pressure1-1.pdf Graphic file (type pdf)
+<use z_1_files/figure-latex/pressure1-1.pdf>
+Package pdftex.def Info: z_1_files/figure-latex/pressure1-1.pdf  used on input 
+line 259.
+(pdftex.def)             Requested size: 390.02371pt x 225.18689pt.
+LaTeX Info: Redefining \. on input line 264.
+LaTeX Info: Redefining \% on input line 264.
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
@@ -1185,18 +1132,18 @@ Cap\'{\i }tulo 2.
 
 ]
 Cap\'{\i }tulo 3.
-<z_1_files/figure-latex/pressure-1.pdf, id=153, 434.62375pt x 250.9375pt>
-File: z_1_files/figure-latex/pressure-1.pdf Graphic file (type pdf)
-<use z_1_files/figure-latex/pressure-1.pdf>
-Package pdftex.def Info: z_1_files/figure-latex/pressure-1.pdf  used on input l
-ine 295.
-(pdftex.def)             Requested size: 412.59178pt x 238.21695pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [5]
-LaTeX Info: Redefining \. on input line 304.
-LaTeX Info: Redefining \% on input line 304.
+<z_1_files/figure-latex/pressure-1.pdf, id=164, 434.62375pt x 250.9375pt>
+File: z_1_files/figure-latex/pressure-1.pdf Graphic file (type pdf)
+<use z_1_files/figure-latex/pressure-1.pdf>
+Package pdftex.def Info: z_1_files/figure-latex/pressure-1.pdf  used on input l
+ine 307.
+(pdftex.def)             Requested size: 390.02371pt x 225.18689pt.
+LaTeX Info: Redefining \. on input line 316.
+LaTeX Info: Redefining \% on input line 316.
 [6 <./z_1_files/figure-latex/pressure-1.pdf>]
 Ap\'{e}ndice A.
 [7
@@ -1213,41 +1160,42 @@ Ap\'{e}ndice B.
 runsystem(makeindex z_1.idx)...executed safely (allowed).
 
 (./z_1.ind)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 313.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 325.
 [13
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 313.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 325.
 (./z_1.aux
 LaTeX Info: Redefining \. on input line 24.
 LaTeX Info: Redefining \% on input line 24.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 313.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 313.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 325.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 325.
 Package rerunfilecheck Info: File `z_1.out' has not changed.
 (rerunfilecheck)             Checksum: 050B02A59AD0731604211A933F316FAF;1466.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 313.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 325.
  ) 
 Here is how much of TeX's memory you used:
- 15420 strings out of 492982
- 216990 string characters out of 6134895
- 340502 words of memory out of 5000000
- 18643 multiletter control sequences out of 15000+600000
- 106396 words of font info for 107 fonts, out of 8000000 for 9000
+ 14981 strings out of 492982
+ 210671 string characters out of 6134895
+ 328261 words of memory out of 5000000
+ 18210 multiletter control sequences out of 15000+600000
+ 106171 words of font info for 105 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 35i,11n,43p,263b,441s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 35i,11n,43p,263b,468s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/share/
-texmf/fonts/type1/pctex/mtpro2/mt2mit.pfb></usr/local/share/texmf/fonts/type1/p
-ctex/mtpro2/mt2syt.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/courier/u
-crb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></u
-sr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texliv
-e/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/f
-onts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/
-times/utmri8a.pfb>
-Output written on z_1.pdf (21 pages, 123769 bytes).
+texmf/fonts/type1/pctex/mtpro2/mt2exa.pfb></usr/local/share/texmf/fonts/type1/p
+ctex/mtpro2/mt2mis.pfb></usr/local/share/texmf/fonts/type1/pctex/mtpro2/mt2mit.
+pfb></usr/local/share/texmf/fonts/type1/pctex/mtpro2/mt2syt.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/urw/courier/ucrb8a.pfb></usr/share/texlive/texmf-di
+st/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utm
+bi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on z_1.pdf (21 pages, 140071 bytes).
 PDF statistics:
- 251 PDF objects out of 1000 (max. 8388607)
- 210 compressed objects within 3 object streams
+ 259 PDF objects out of 1000 (max. 8388607)
+ 216 compressed objects within 3 object streams
  52 named destinations out of 1000 (max. 500000)
  18552 words of extra memory for PDF output out of 20736 (max. 10000000)
 
